@@ -7,9 +7,9 @@ As part of my Data Science portfolio, I'm building a recommender system for my f
 
 ## Technology Stack
 
-Python
-BeautifulSoup for scrapping
-Jypyter Notebook for dataset analysis
+- Python
+- BeautifulSoup for scrapping
+- Jypyter Notebook for dataset analysis
 
 ## Setup
 
